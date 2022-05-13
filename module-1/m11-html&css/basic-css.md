@@ -1,10 +1,11 @@
 ---
-course: virgil-fw
+course: virgil-fwee
 author: Tuan Hoang
 description: solutions for full stack web assignments
 ---
 
 [Back to README](../README.md)
+# Initial setup 
 
 ```html
 <!DOCTYPE html>
@@ -16,7 +17,16 @@ description: solutions for full stack web assignments
     <title>Basic CSS</title>
   </head>
   <body>
-    <section id="assignment1">
+    //Your code here
+    </body>
+  </html>
+```
+
+# Solutions
+## Assignment 1
+**HTML:**
+```html
+ <section id="assignment1">
       <h1 class="header">About Project Gutenberg</h1>
       <p id="para1">Project Gutenberg is an online library of free eBooks.</p>
       <p>
@@ -33,61 +43,9 @@ description: solutions for full stack web assignments
         activities in fulfillment of that mission.
       </p>
     </section>
-    <hr />
-    <section id="assignment2">
-      <a href="#assignment1">Jump to the first assignment</a>
-    </section>
-    <hr />
-    <section id="assignment3">
-      <ul>
-        <li>
-          Top level
-          <ul>
-            <li>
-              Second level
-              <ul>
-                <li>
-                  Third level
-                  <ul>
-                    <li>
-                      Fourth level
-                      <ul>
-                        <li>Fifth level</li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </section>
-    <section id="assignment4">
-      <div class="box"></div>
-    </section>
-    <section id="assignment5">
-      <div class="box">
-        Box 1
-        <!-- <div class="box">Box 3</div> -->
-      </div>
-      <div class="box content">
-        Box 2
-        <!-- <div class="box">Box 4</div> -->
-      </div>
-    </section>
-    <hr />
-  </body>
-</html>
 ```
-
+**CSS:**
 ```css
-section {
-  padding: 30px 20vw;
-}
-
-/* Assignment 1 */
-
 #assignment1 {
   background-color: #fff;
   background-image: linear-gradient(
@@ -126,7 +84,17 @@ h1:first-child {
   /* visibility: hidden; */
   display: none;
 }
-
+```
+## Assignment 2
+**HTML**
+```html
+ <section id="assignment2">
+      <a href="#assignment1">Jump to the first assignment</a>
+    </section>
+    <hr />
+```
+**CSS**
+```css
 /* Assignment 2 */
 
 #assignment2 a:link {
@@ -141,7 +109,39 @@ h1:first-child {
 #assignment2 a:active {
   color: #e74c3c;
 }
+```
 
+## Assignment 3
+**HTML**
+```html
+ <section id="assignment3">
+      <ul>
+        <li>
+          Top level
+          <ul>
+            <li>
+              Second level
+              <ul>
+                <li>
+                  Third level
+                  <ul>
+                    <li>
+                      Fourth level
+                      <ul>
+                        <li>Fifth level</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+```
+**CSS**
+```css
 /* Assignment 3 */
 
 #assignment3 {
@@ -152,6 +152,17 @@ h1:first-child {
   font-size: 0.8rem;
 }
 
+```
+
+## Assignment 4
+**HTML**
+```html
+ <section id="assignment4">
+      <div class="box"></div>
+    </section>
+```
+**CSS**
+```css
 /* Assignment 4 */
 
 #assignment4 .box {
@@ -159,6 +170,24 @@ h1:first-child {
   width: 80vmin;
   height: 80vmin;
 }
+```
+
+## Assignment 5
+**HTML**
+```html
+ <section id="assignment5">
+      <div class="box">
+        Box 1
+        <!-- <div class="box">Box 3</div> -->
+      </div>
+      <div class="box content">
+        Box 2
+        <!-- <div class="box">Box 4</div> -->
+      </div>
+    </section>
+```
+**CSS**
+```css
 
 /* Assignment 5 */
 
@@ -187,3 +216,10 @@ h1:first-child {
   border-color: #16a085;
 }
 ```
+
+
+
+
+
+---
+
