@@ -3,9 +3,10 @@ course: virgil-fw
 author: Tuan Hoang
 description: solutions for full stack web assignments
 ---
-
 [Back to README](../README.md)
 
+
+## Assignment 1
 ```html
 <br>
 <div><img src="https://i.imgur.com/0AUxkXt.png" /></div>
@@ -24,6 +25,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 2
+```html
 <section>
   <h4 id="Assignment_2">Assignment 2 - Hyperlink 1</h4>
   <p>Create a hyperlink that leads to www.coderschool.vn</p>
@@ -31,7 +36,10 @@ description: solutions for full stack web assignments
   <a href="https://www.coderschool.vn/vi/">CoderSchool</a>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 3
+```html
 <section>
   <h4>Assignment 3 - Hyperlink 2</h4>
   <p>Create a hyperlink to take you to another part of the same HTML document <i>(e.g. jump to the last assignment)</i></p>
@@ -39,7 +47,10 @@ description: solutions for full stack web assignments
   <a href="#Assignment_2">Go to Assignment 2</a>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 4
+```html
 <section>
   <h4>Assignment 4 - Hyperlink 3</h4>
   <p>Create a hyperlink that opens the linked document in a separate browser tab</p>
@@ -47,7 +58,10 @@ description: solutions for full stack web assignments
   <a href="https://www.coderschool.vn/vi/" target="_blank">Coderschool</a>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 5
+```html
 <section>
   <h4>Assignment 5 - Audio</h4>
   <p>Embed an audio clip into this page (Ref: <a href="https://htmlreference.io/element/audio" target="_blank">https://htmlreference.io/element/audio</a>)</p>
@@ -58,7 +72,10 @@ description: solutions for full stack web assignments
   </div>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 6
+```html
 <section>
   <h4>Assignment 6 - Video</h4>
   <p>Embed an Youtube clip into this page</p>
@@ -67,6 +84,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 7
+```html
 <section>
   <h4>Assignment 7 - Image</h4>
   <p>Create an image with these attributes:</p>
@@ -80,6 +101,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 8
+```html
 <section>
   <h4>Assignment 8 - Bold text</h4>
   <p>Make the word "easy" bold in the text below:</p>
@@ -88,6 +113,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 9
+```html
 <section>
   <h4>Assignment 9 - Underline text</h4>
   <p>Underline the word CoderSchool in the text below:</p>
@@ -95,7 +124,10 @@ description: solutions for full stack web assignments
   <p>At <u>CoderSchool</u>, we are always learning!</p>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 10
+```html
 <section>
   <h4>Assignment 10 - Strikeout</h4>
   <p>Add a line through the word <strong>"not"</strong> in the sentence below:</p>
@@ -104,6 +136,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 11
+```html
 <section>
   <h4>Assignment 11 - Line break</h4>
   <p>Add a line break in middle of the two paragraphs below:</p>
@@ -112,7 +148,10 @@ description: solutions for full stack web assignments
   <p>Money</p>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 12
+```html
 <section>
   <h4>Assignment 12 - Horizontal Line</h4>
   <p>Add a horizontal line between the two paragraphs below:</p>
@@ -123,6 +162,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 13
+```html
 <section>
   <h4>Assignment 13 - Unordered List</h4>
   <p>Create an unordered list with three items.</p>
@@ -135,7 +178,11 @@ description: solutions for full stack web assignments
   </ul>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+
+## Assignment 14
+```html
 <section>
   <h4>Assignment 14 - Ordered Lists</h4>
   <p>Create three ordered lists that use numbers/uppercase ABC/roman numbers for the item. Each has 2 items.</p>
@@ -158,6 +205,11 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+
+## Assignment 15
+```html
 <section>
   <h4>Assignment 15 - Table</h4>
   <p>Create a table with two rows, three columns, and headers.</p>
@@ -181,7 +233,10 @@ description: solutions for full stack web assignments
   </table>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 16
+```html
 <section>
   <h4>Assignment 16 - Navigation links</h4>
   <p>Define a section with 3 navigation links.</p>
@@ -194,6 +249,10 @@ description: solutions for full stack web assignments
   <!--  YOUR CODE ENDS HERE  -->
 </section>
 
+```
+
+## Assignment 17
+```html
 <section>
   <h4>Assignment 17 - Toggable Detail</h4>
   <p>How to define a toggable block of content with a summary and additional details. (Ref:
@@ -206,7 +265,11 @@ description: solutions for full stack web assignments
   </details>
   <!--  YOUR CODE ENDS HERE  -->
 </section>
+```
 
+## Assignment 18
+
+```html
 <section>
   <h4>Assignment 18 - Form</h4>
   <p>Create a form that asks for:</p>
