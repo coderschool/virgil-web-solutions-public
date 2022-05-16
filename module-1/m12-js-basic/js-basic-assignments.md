@@ -8,6 +8,115 @@ description: solutions for full stack web assignments
 
 # Assignment 1
 
+<details>
+<summary># Question 1:</summary>
+  
+##  Content:
+  
+  ````
+ °F to °C
+ Given the function fToC(fDegree) , try and fix it so that it correctly converts Fahrenheit degree (°F) to Celsius degree (°C).
+  (°F − 32) × 5/9 = °C
+  
+  function fToC (fDegree) {
+	const cDegree = (fDegree - 32 * 5 / 9);
+	return cDegree
+}
+console.log(fToC(32)) // expected result: 0
+  ````
+  
+##  Answer:
+````
+ function fToC (fDegree) {
+	const cDegree = (fDegree - 32) * 5 / 9;
+	return cDegree
+}
+````
+</details>
+
+<details>
+<summary># Question 2:</summary>
+  
+##  Content:
+  
+  ````
+Earth to Moon
+The distance between the Earth and the Moon is about 30 times Earth's diameter.
+Given Earth's diameter is 12,742 km, calculate the distance in kilometers.
+  function calculateDistance () {
+	const diameter = 12742
+	const distance = diameter
+	return distance
+}
+console.log(calculateDistance()) // expected result: 382260
+  ````
+  
+##  Answer:
+````
+ function calculateDistance () {
+	const diameter = 12742
+	const distance = diameter*30
+	return distance
+}
+console.log(calculateDistance()) // expected result: 382260
+````
+</details>
+
+<details>
+<summary># Question 3:</summary>
+  
+##  Content:
+  
+  ````
+Given the function calculateBMI(height, weight) , try and fix it so 
+that it correctly calculate the BMI with the given height and weight.
+ function calculateBMI (height, weight) {
+	const bmi = weight / height*height
+	return "your BMI is " + bmi
+}
+console.log(calculateBMI(1.6, 55)) // expected result: "your BMI is 21.48"
+  ````
+  
+##  Answer:
+````
+ function calculateBMI (height, weight) {
+	const bmi = weight / (height*height)
+	return "your BMI is " + bmi
+}
+console.log(calculateBMI(1.6, 55)) // expected result: "your BMI is 21.48"
+````
+</details>
+
+<details>
+<summary># Question 4:</summary>
+  
+##  Content:
+  
+  ````
+Write a function to check if you are allowed to drink beer in New York.
+  function canDrinkBeer(age) {
+	if(age > 21) {
+		return "You are " + age + ", you can drink beer in New York"
+	} else {
+		return "You are " + age + ", you can not drink beer in New York"
+	} 
+}
+console.log(canDrinkBeer(21)) 
+  ````
+  
+##  Answer:
+````
+function canDrinkBeer(age) {
+	if(age >= 21) {
+		return "You are " + age + ", you can drink beer in New York"
+	} else {
+		return "You are " + age + ", you can not drink beer in New York"
+	} 
+}
+console.log(canDrinkBeer(21)) 
+````
+</details>
+
 # Assignment 2
 
 - Q1(mc): What is the data type of 2021?
@@ -53,3 +162,136 @@ description: solutions for full stack web assignments
 - -> `"Bran Stark is not an adult"`
 
 # Assignment 3
+
+<details>
+<summary># Question 1:</summary>
+  
+##  Content:
+  
+  ````
+Body Type from BMI
+Write a function to check your body type base on weight and height. Known that:
+BMI = weight in kg/ (height in m)2
+  
+Check the BMI, if BMI is:
+less than 18: underweight
+18 to less than 25: normal weight
+25 to less than 30: overweight
+30 and above: obesity
+Return the right body type.
+
+Examples:
+
+bodyType(1.64,60) should return "normal weight"
+
+bodyType(1.6,70) should return "overweight"
+  
+  function bodyType (height, weight) {
+	//YOUR CODE HERE
+	const bmi = weight / (height * height)
+
+}
+  ````
+  
+##  Answer:
+````
+function bodyType (height, weight) {
+	//YOUR CODE HERE
+	const bmi = weight / (height * height)
+	if(bmi <18) return "underweight";
+	else if(bmi <25) return "normal weight";
+	else if(bmi <30) return "overweight";
+	else return "obesity";
+
+}
+````
+</details>
+  
+<details>
+<summary># Question 2:</summary>
+  
+##  Content:
+  
+  ````
+Count Your Calories
+You are on a diet and record your total calorie intake every day. 
+After a week, the 7 numbers are recorded in an array. 
+Calculate your total weight gain or loss for the week if you burn 2000 
+calories a day, and 1 kg is equivalent to 7700 calories.
+NOTE: 1 kg = 7700 calories
+totalKcal([1600, 1600, 1500, 1700, 1800, 2000, 2000]) // should return - 0.233766234, meaning you will lose 0.233766234 kg
+totalKcal([2000, 2000, 2000, 2000, 2000, 2000, 2000]) // should return 0
+  function totalKcal(arr) {
+	let result = 0;
+	// YOUR CODE HERE
+	return result;
+}
+  ````
+  
+##  Answer:
+````
+function totalKcal(arr) {
+	let result = 0;
+	// YOUR CODE HERE
+	for(i = 0; i<arr.length;i++)
+	{
+	    result += (arr[i]-2000)/7700
+	}
+	
+
+	return result;
+}
+````
+</details>
+  
+  <details>
+<summary># Question 3:</summary>
+  
+##  Content:
+  
+  ````
+Yard Sale
+You are moving to a new place and having a yard sale. 
+You make a list of all the items and their corresponding prices. 
+Calculate the total money in VND you can earn if you sell all the items.
+For example:  
+const items = [{
+        name: "table",
+        price: 100000,
+        currency: "VND"
+    },
+    {
+        name: "microwave",
+        price: 700000,
+        currency: "VND"
+    },
+    {
+        name: "sofa",
+        price: 500000,
+        currency: "VND"
+    }
+]
+
+totalPrice(items) //should return 1300000
+    
+function totalPrice(arr) {
+let total = 0
+	//YOUR CODE HERE
+return total
+}
+  ````
+  
+##  Answer:
+````
+function totalPrice(arr) {
+let total = 0
+	//YOUR CODE HERE
+	for(i = 0; i<arr.length ; i++)
+	{
+	    total += arr[i].price
+	}
+	
+return total
+}
+````
+</details>
