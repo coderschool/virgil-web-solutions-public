@@ -1,9 +1,6 @@
-
 Demo app: https://voluble-kulfi-c7f732.netlify.app/
 
-
-
-```javascript=
+```javascript
 ---
 to: index.js
 ---
@@ -14,7 +11,7 @@ import Counter from "./Counter.js";
 ReactDOM.render(<Counter />, document.getElementById("root"));
 ```
 
-```javascript=
+```javascript
 ---
 to: Counter.js
 ---
