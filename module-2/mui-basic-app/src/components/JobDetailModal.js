@@ -16,8 +16,6 @@ const style = {
   width: { xs: "90%", md: 600 },
   bgcolor: "background.paper",
   borderRadius: 2,
-  boxShadow: 24,
-  p: 2,
   border: "none",
 };
 
@@ -47,7 +45,14 @@ function JobDetailModal() {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <Card sx={{ border: "none", boxShadow: 0 }}>
+          <Card
+            sx={{
+              border: "none",
+              boxShadow: 0,
+              backgroundColor: (theme) => theme.palette.primary.light,
+              color: (theme) => theme.palette.common.white,
+            }}
+          >
             <CardContent>
               <Typography variant="h5" component="div">
                 {job?.title}
