@@ -1,6 +1,7 @@
 import jobs from "./jobs.json";
 
-function getJobs(page, q = null) {
+async function getJobs(page, q = null) {
+  // await Promise(setTimeout(() => {}, 100));
   if (q) {
     let filtedJobs = jobs.filter(
       (job) =>
@@ -15,7 +16,8 @@ function getJobs(page, q = null) {
   }
 }
 
-function getJob(id) {
+async function getJob(id) {
+  // await Promise(setTimeout(() => {}, 100));
   return jobs.find((job) => job.id == id);
 }
 
