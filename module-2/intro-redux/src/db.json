@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Hoc Bai",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Lau Nha",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "Di Choi",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "text": "An Choi",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "text": "88",
+      "completed": false
+    }
+  ]
+}

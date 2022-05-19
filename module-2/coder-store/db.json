@@ -1,0 +1,3820 @@
+{
+  "products": [
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Nike Air Force 1 NDESTRUKT",
+      "code": "38BEE270",
+      "sku": "WW75K5210YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 16.19,
+      "priceSale": 16.19,
+      "totalRating": 2.5,
+      "totalReview": 7794,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 245,
+          "reviewCount": 2281
+        },
+        {
+          "name": "2 Star",
+          "starCount": 6476,
+          "reviewCount": 8959
+        },
+        {
+          "name": "3 Star",
+          "starCount": 3477,
+          "reviewCount": 8269
+        },
+        {
+          "name": "4 Star",
+          "starCount": 5063,
+          "reviewCount": 7785
+        },
+        {
+          "name": "5 Star",
+          "starCount": 1848,
+          "reviewCount": 3212
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 8062,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 6903,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 1024,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4207,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 3116,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 6619,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1696,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9359,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 93,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 343,
+      "createdAt": "2022-03-13T05:49:40.476Z",
+      "category": "Shose",
+      "gender": "Women",
+      "colors": ["#00AB55", "#000000"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Foundations Matte Flip Flop",
+      "code": "38BEE271",
+      "sku": "WW75K5211YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 35.71,
+      "priceSale": null,
+      "totalRating": 2,
+      "totalReview": 1063,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 995,
+          "reviewCount": 6584
+        },
+        {
+          "name": "2 Star",
+          "starCount": 4552,
+          "reviewCount": 1803
+        },
+        {
+          "name": "3 Star",
+          "starCount": 2967,
+          "reviewCount": 8697
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2903,
+          "reviewCount": 654
+        },
+        {
+          "name": "5 Star",
+          "starCount": 935,
+          "reviewCount": 8274
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 3588,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 3087,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 2419,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 9933,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 1792,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 2520,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 2927,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9305,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 582,
+      "createdAt": "2022-03-12T04:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#000000", "#FFFFFF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Nike Air Zoom Pegasus 37 A.I.R. Chaz Bear",
+      "code": "38BEE272",
+      "sku": "WW75K5212YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 34.3,
+      "priceSale": null,
+      "totalRating": 4.9,
+      "totalReview": 6269,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 5696,
+          "reviewCount": 9642
+        },
+        {
+          "name": "2 Star",
+          "starCount": 639,
+          "reviewCount": 1839
+        },
+        {
+          "name": "3 Star",
+          "starCount": 4225,
+          "reviewCount": 8414
+        },
+        {
+          "name": "4 Star",
+          "starCount": 9799,
+          "reviewCount": 698
+        },
+        {
+          "name": "5 Star",
+          "starCount": 2178,
+          "reviewCount": 3590
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 9822,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 7103,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 9270,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4701,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 8792,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 3652,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1216,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 1414,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 672,
+      "createdAt": "2022-03-11T03:49:40.476Z",
+      "category": "Apparel",
+      "gender": "Kids",
+      "colors": ["#FFFFFF", "#FFC0CB"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Arizona Soft Footbed Sandal",
+      "code": "38BEE273",
+      "sku": "WW75K5213YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 93.1,
+      "priceSale": 93.1,
+      "totalRating": 2,
+      "totalReview": 2360,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 698,
+          "reviewCount": 4693
+        },
+        {
+          "name": "2 Star",
+          "starCount": 9971,
+          "reviewCount": 7489
+        },
+        {
+          "name": "3 Star",
+          "starCount": 4907,
+          "reviewCount": 2521
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2091,
+          "reviewCount": 7587
+        },
+        {
+          "name": "5 Star",
+          "starCount": 6713,
+          "reviewCount": 2569
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5404,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 868,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 7281,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 5284,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 1242,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 1060,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 9810,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 8640,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 73,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 631,
+      "createdAt": "2022-03-10T02:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#FFC0CB", "#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Boston Soft Footbed Sandal",
+      "code": "38BEE274",
+      "sku": "WW75K5214YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 55.47,
+      "priceSale": null,
+      "totalRating": 4,
+      "totalReview": 6625,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 1371,
+          "reviewCount": 7984
+        },
+        {
+          "name": "2 Star",
+          "starCount": 8244,
+          "reviewCount": 5710
+        },
+        {
+          "name": "3 Star",
+          "starCount": 1457,
+          "reviewCount": 4737
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2146,
+          "reviewCount": 8824
+        },
+        {
+          "name": "5 Star",
+          "starCount": 8426,
+          "reviewCount": 7923
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 9035,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 6370,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 7368,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 3112,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 2299,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 1116,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 7475,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 551,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 678,
+      "createdAt": "2022-03-09T01:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Kids",
+      "colors": ["#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Zoom Freak 2",
+      "code": "38BEE275",
+      "sku": "WW75K5215YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 89.09,
+      "priceSale": null,
+      "totalRating": 5,
+      "totalReview": 7871,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 8084,
+          "reviewCount": 6713
+        },
+        {
+          "name": "2 Star",
+          "starCount": 5383,
+          "reviewCount": 4496
+        },
+        {
+          "name": "3 Star",
+          "starCount": 9839,
+          "reviewCount": 3439
+        },
+        {
+          "name": "4 Star",
+          "starCount": 251,
+          "reviewCount": 1012
+        },
+        {
+          "name": "5 Star",
+          "starCount": 6208,
+          "reviewCount": 6898
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5929,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 2714,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 8675,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4248,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 5163,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 2653,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 7268,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 2883,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "new",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 16,
+      "createdAt": "2022-03-08T00:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Gazelle Vintage low-top sneakers",
+      "code": "38BEE276",
+      "sku": "WW75K5216YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 44.39,
+      "priceSale": 44.39,
+      "totalRating": 4.9,
+      "totalReview": 9680,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 2910,
+          "reviewCount": 6184
+        },
+        {
+          "name": "2 Star",
+          "starCount": 4067,
+          "reviewCount": 7734
+        },
+        {
+          "name": "3 Star",
+          "starCount": 9358,
+          "reviewCount": 6297
+        },
+        {
+          "name": "4 Star",
+          "starCount": 6549,
+          "reviewCount": 7566
+        },
+        {
+          "name": "5 Star",
+          "starCount": 8463,
+          "reviewCount": 405
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 6539,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 8539,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 2044,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 6872,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 7412,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 6806,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 3853,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 7776,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 80,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 252,
+      "createdAt": "2022-03-06T23:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Women",
+      "colors": ["#00AB55", "#000000"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Jordan Delta",
+      "code": "38BEE277",
+      "sku": "WW75K5217YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 26.92,
+      "priceSale": null,
+      "totalRating": 5,
+      "totalReview": 7917,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 1983,
+          "reviewCount": 4416
+        },
+        {
+          "name": "2 Star",
+          "starCount": 6508,
+          "reviewCount": 2607
+        },
+        {
+          "name": "3 Star",
+          "starCount": 457,
+          "reviewCount": 9509
+        },
+        {
+          "name": "4 Star",
+          "starCount": 4778,
+          "reviewCount": 7905
+        },
+        {
+          "name": "5 Star",
+          "starCount": 2999,
+          "reviewCount": 1114
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 4472,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 7284,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 8448,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 933,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 7741,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 9527,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 4598,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 555,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "new",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 776,
+      "createdAt": "2022-03-05T22:49:40.476Z",
+      "category": "Apparel",
+      "gender": "Women",
+      "colors": ["#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b9",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_9.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Air Jordan XXXV PF",
+      "code": "38BEE278",
+      "sku": "WW75K5218YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 45.35,
+      "priceSale": null,
+      "totalRating": 3.7,
+      "totalReview": 2276,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 1210,
+          "reviewCount": 9884
+        },
+        {
+          "name": "2 Star",
+          "starCount": 4850,
+          "reviewCount": 4807
+        },
+        {
+          "name": "3 Star",
+          "starCount": 9614,
+          "reviewCount": 600
+        },
+        {
+          "name": "4 Star",
+          "starCount": 6330,
+          "reviewCount": 9632
+        },
+        {
+          "name": "5 Star",
+          "starCount": 7542,
+          "reviewCount": 4511
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5421,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 2790,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 7257,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4433,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 5943,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 5187,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 9511,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9956,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 371,
+      "createdAt": "2022-03-04T21:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Men",
+      "colors": ["#FFFFFF", "#FFC0CB"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b10",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_10.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Rod Laver low-top sneakers",
+      "code": "38BEE279",
+      "sku": "WW75K5219YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 26.96,
+      "priceSale": 26.96,
+      "totalRating": 2.5,
+      "totalReview": 6161,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 7964,
+          "reviewCount": 1759
+        },
+        {
+          "name": "2 Star",
+          "starCount": 8930,
+          "reviewCount": 1840
+        },
+        {
+          "name": "3 Star",
+          "starCount": 1835,
+          "reviewCount": 5312
+        },
+        {
+          "name": "4 Star",
+          "starCount": 6361,
+          "reviewCount": 1546
+        },
+        {
+          "name": "5 Star",
+          "starCount": 9343,
+          "reviewCount": 5514
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 8504,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 4272,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 5731,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 5810,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 41,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 5716,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 2965,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 4184,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 57,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 872,
+      "createdAt": "2022-03-03T20:49:40.476Z",
+      "category": "Apparel",
+      "gender": "Women",
+      "colors": ["#FFFFFF", "#FFC0CB", "#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b11",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_11.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Kyrie 7 EP Sisterhood",
+      "code": "38BEE2710",
+      "sku": "WW75K52110YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 78.22,
+      "priceSale": null,
+      "totalRating": 2,
+      "totalReview": 9748,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 7626,
+          "reviewCount": 3792
+        },
+        {
+          "name": "2 Star",
+          "starCount": 2410,
+          "reviewCount": 2124
+        },
+        {
+          "name": "3 Star",
+          "starCount": 4496,
+          "reviewCount": 4885
+        },
+        {
+          "name": "4 Star",
+          "starCount": 595,
+          "reviewCount": 3863
+        },
+        {
+          "name": "5 Star",
+          "starCount": 2022,
+          "reviewCount": 7529
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 1205,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 2623,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 380,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 3099,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 6935,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 1353,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 6485,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 1275,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 41,
+      "createdAt": "2022-03-02T19:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Kids",
+      "colors": ["#FFC0CB", "#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b12",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_12.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Pharrell Williams Human Race NMD sneakers",
+      "code": "38BEE2711",
+      "sku": "WW75K52111YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 35.54,
+      "priceSale": null,
+      "totalRating": 4.9,
+      "totalReview": 2878,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 8226,
+          "reviewCount": 9513
+        },
+        {
+          "name": "2 Star",
+          "starCount": 869,
+          "reviewCount": 5997
+        },
+        {
+          "name": "3 Star",
+          "starCount": 2138,
+          "reviewCount": 9849
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2299,
+          "reviewCount": 4941
+        },
+        {
+          "name": "5 Star",
+          "starCount": 4010,
+          "reviewCount": 1441
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 2722,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 8131,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 3194,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4946,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 892,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 6434,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 8296,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 3739,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 299,
+      "createdAt": "2022-03-01T18:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Kids",
+      "colors": ["#FFFFFF", "#FFC0CB", "#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b13",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_13.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Nike Blazer Low 77 Vintage",
+      "code": "38BEE2712",
+      "sku": "WW75K52112YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 90.69,
+      "priceSale": 90.69,
+      "totalRating": 4.8,
+      "totalReview": 3108,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 8611,
+          "reviewCount": 4844
+        },
+        {
+          "name": "2 Star",
+          "starCount": 5741,
+          "reviewCount": 3917
+        },
+        {
+          "name": "3 Star",
+          "starCount": 5996,
+          "reviewCount": 2863
+        },
+        {
+          "name": "4 Star",
+          "starCount": 6481,
+          "reviewCount": 5269
+        },
+        {
+          "name": "5 Star",
+          "starCount": 785,
+          "reviewCount": 4251
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 2159,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 4993,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 5813,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 9124,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 7106,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 9086,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 714,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9626,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 27,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 715,
+      "createdAt": "2022-02-28T17:49:40.476Z",
+      "category": "Accessories",
+      "gender": "Men",
+      "colors": ["#FFFFFF", "#FFC0CB", "#FF4842", "#1890FF", "#94D82D"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b14",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_14.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "ASMC Winter Boot Cold.Rdy",
+      "code": "38BEE2713",
+      "sku": "WW75K52113YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 63.61,
+      "priceSale": null,
+      "totalRating": 4,
+      "totalReview": 5083,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 9372,
+          "reviewCount": 3148
+        },
+        {
+          "name": "2 Star",
+          "starCount": 6179,
+          "reviewCount": 415
+        },
+        {
+          "name": "3 Star",
+          "starCount": 3210,
+          "reviewCount": 8265
+        },
+        {
+          "name": "4 Star",
+          "starCount": 5535,
+          "reviewCount": 2257
+        },
+        {
+          "name": "5 Star",
+          "starCount": 75,
+          "reviewCount": 8372
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 177,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 3859,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 7578,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 6547,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 8019,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 4896,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 7605,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 4288,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 763,
+      "createdAt": "2022-02-27T16:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#FF4842", "#1890FF", "#94D82D"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b15",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_15.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "ZX 8000 Lego sneakers",
+      "code": "38BEE2714",
+      "sku": "WW75K52114YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 67.55,
+      "priceSale": null,
+      "totalRating": 2,
+      "totalReview": 5608,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 2962,
+          "reviewCount": 3519
+        },
+        {
+          "name": "2 Star",
+          "starCount": 3014,
+          "reviewCount": 9265
+        },
+        {
+          "name": "3 Star",
+          "starCount": 5843,
+          "reviewCount": 249
+        },
+        {
+          "name": "4 Star",
+          "starCount": 8418,
+          "reviewCount": 8378
+        },
+        {
+          "name": "5 Star",
+          "starCount": 6775,
+          "reviewCount": 6393
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 7956,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 6283,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 8826,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 426,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 9086,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 2128,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 9406,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 8291,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 571,
+      "createdAt": "2022-02-26T15:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#00AB55", "#000000"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b16",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_16.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Ultraboost 21 sneakers",
+      "code": "38BEE2715",
+      "sku": "WW75K52115YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 94.75,
+      "priceSale": 94.75,
+      "totalRating": 3.7,
+      "totalReview": 3841,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 1898,
+          "reviewCount": 2990
+        },
+        {
+          "name": "2 Star",
+          "starCount": 8000,
+          "reviewCount": 3288
+        },
+        {
+          "name": "3 Star",
+          "starCount": 9178,
+          "reviewCount": 3821
+        },
+        {
+          "name": "4 Star",
+          "starCount": 5659,
+          "reviewCount": 6070
+        },
+        {
+          "name": "5 Star",
+          "starCount": 4846,
+          "reviewCount": 8831
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5744,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 8743,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 8267,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 1367,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 4492,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 2657,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 5853,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 1154,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 30,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 498,
+      "createdAt": "2022-02-25T14:49:40.476Z",
+      "category": "Apparel",
+      "gender": "Women",
+      "colors": ["#1890FF", "#94D82D", "#FFC107"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b17",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_17.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "2750 Cotu Classic Sneaker",
+      "code": "38BEE2716",
+      "sku": "WW75K52116YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 75.78,
+      "priceSale": null,
+      "totalRating": 1.4,
+      "totalReview": 5668,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 5163,
+          "reviewCount": 525
+        },
+        {
+          "name": "2 Star",
+          "starCount": 8331,
+          "reviewCount": 1089
+        },
+        {
+          "name": "3 Star",
+          "starCount": 5248,
+          "reviewCount": 7464
+        },
+        {
+          "name": "4 Star",
+          "starCount": 1949,
+          "reviewCount": 3868
+        },
+        {
+          "name": "5 Star",
+          "starCount": 9524,
+          "reviewCount": 5251
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 550,
+          "postedAt": "2022-03-13T05:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 3638,
+          "postedAt": "2022-03-12T04:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 6560,
+          "postedAt": "2022-03-11T03:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 8679,
+          "postedAt": "2022-03-10T02:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 6554,
+          "postedAt": "2022-03-09T01:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 3686,
+          "postedAt": "2022-03-08T00:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 3751,
+          "postedAt": "2022-03-06T23:49:40.476Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 3002,
+          "postedAt": "2022-03-05T22:49:40.476Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 557,
+      "createdAt": "2022-02-24T13:49:40.476Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b18",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_18.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "ZX 9000 A-ZX Series sneakers",
+      "code": "38BEE2717",
+      "sku": "WW75K52117YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 39.6,
+      "priceSale": null,
+      "totalRating": 2.4,
+      "totalReview": 5712,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 9906,
+          "reviewCount": 8452
+        },
+        {
+          "name": "2 Star",
+          "starCount": 9405,
+          "reviewCount": 6750
+        },
+        {
+          "name": "3 Star",
+          "starCount": 6054,
+          "reviewCount": 1917
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2265,
+          "reviewCount": 7257
+        },
+        {
+          "name": "5 Star",
+          "starCount": 1164,
+          "reviewCount": 4423
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 2568,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 5786,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 4205,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 4429,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 5399,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 8336,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 3552,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 789,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "new",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 949,
+      "createdAt": "2022-02-23T12:49:40.477Z",
+      "category": "Apparel",
+      "gender": "Women",
+      "colors": ["#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b19",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_19.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Madrid Big Buckle Sandal",
+      "code": "38BEE2718",
+      "sku": "WW75K52118YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 52.84,
+      "priceSale": 52.84,
+      "totalRating": 1.8,
+      "totalReview": 5140,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 2722,
+          "reviewCount": 1356
+        },
+        {
+          "name": "2 Star",
+          "starCount": 5519,
+          "reviewCount": 4169
+        },
+        {
+          "name": "3 Star",
+          "starCount": 6337,
+          "reviewCount": 9298
+        },
+        {
+          "name": "4 Star",
+          "starCount": 7650,
+          "reviewCount": 4299
+        },
+        {
+          "name": "5 Star",
+          "starCount": 8817,
+          "reviewCount": 7302
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5749,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 2313,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 898,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 6124,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 9143,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 8769,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1981,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 3112,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "low_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 95,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 303,
+      "createdAt": "2022-02-22T11:49:40.477Z",
+      "category": "Accessories",
+      "gender": "Kids",
+      "colors": ["#00AB55", "#000000"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b20",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_20.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Chuck 70 Hi Sneaker",
+      "code": "38BEE2719",
+      "sku": "WW75K52119YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 72.8,
+      "priceSale": null,
+      "totalRating": 5,
+      "totalReview": 7083,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 7817,
+          "reviewCount": 9984
+        },
+        {
+          "name": "2 Star",
+          "starCount": 795,
+          "reviewCount": 5439
+        },
+        {
+          "name": "3 Star",
+          "starCount": 4556,
+          "reviewCount": 8038
+        },
+        {
+          "name": "4 Star",
+          "starCount": 487,
+          "reviewCount": 374
+        },
+        {
+          "name": "5 Star",
+          "starCount": 147,
+          "reviewCount": 6788
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 8889,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 6289,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 4287,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 1943,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 1615,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 6605,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1908,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9467,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 288,
+      "createdAt": "2022-02-21T10:49:40.477Z",
+      "category": "Shose",
+      "gender": "Kids",
+      "colors": ["#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b21",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_21.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Relaxed Adjustable Strap Slingback Sandal",
+      "code": "38BEE2720",
+      "sku": "WW75K52120YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 83.08,
+      "priceSale": null,
+      "totalRating": 2.9,
+      "totalReview": 2001,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 4574,
+          "reviewCount": 2357
+        },
+        {
+          "name": "2 Star",
+          "starCount": 1793,
+          "reviewCount": 120
+        },
+        {
+          "name": "3 Star",
+          "starCount": 4800,
+          "reviewCount": 9564
+        },
+        {
+          "name": "4 Star",
+          "starCount": 7188,
+          "reviewCount": 6564
+        },
+        {
+          "name": "5 Star",
+          "starCount": 4323,
+          "reviewCount": 9842
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 5676,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 3673,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 6073,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 6512,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 1116,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 4018,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 7359,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 1767,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 372,
+      "createdAt": "2022-02-20T09:49:40.477Z",
+      "category": "Shose",
+      "gender": "Men",
+      "colors": ["#FF4842", "#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b22",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_22.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Superturf Adventure X Atmos",
+      "code": "38BEE2721",
+      "sku": "WW75K52121YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 85.02,
+      "priceSale": 85.02,
+      "totalRating": 3.9,
+      "totalReview": 2131,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 3652,
+          "reviewCount": 4319
+        },
+        {
+          "name": "2 Star",
+          "starCount": 2895,
+          "reviewCount": 3611
+        },
+        {
+          "name": "3 Star",
+          "starCount": 5784,
+          "reviewCount": 3093
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2412,
+          "reviewCount": 9179
+        },
+        {
+          "name": "5 Star",
+          "starCount": 7797,
+          "reviewCount": 5380
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 3275,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 5893,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 6228,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 9501,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 8718,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 9078,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 2379,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 9039,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "sale",
+      "inventoryType": "out_of_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 38,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 214,
+      "createdAt": "2022-02-19T08:49:40.477Z",
+      "category": "Apparel",
+      "gender": "Men",
+      "colors": ["#1890FF"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b23",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_23.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Chuck Taylor All Star Lift Sneaker",
+      "code": "38BEE2722",
+      "sku": "WW75K52122YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 69.22,
+      "priceSale": null,
+      "totalRating": 3.9,
+      "totalReview": 5290,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 8666,
+          "reviewCount": 1620
+        },
+        {
+          "name": "2 Star",
+          "starCount": 8388,
+          "reviewCount": 2722
+        },
+        {
+          "name": "3 Star",
+          "starCount": 9146,
+          "reviewCount": 9777
+        },
+        {
+          "name": "4 Star",
+          "starCount": 2111,
+          "reviewCount": 3258
+        },
+        {
+          "name": "5 Star",
+          "starCount": 6237,
+          "reviewCount": 4330
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 4181,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 4546,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 5222,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 2418,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 9197,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 4841,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1800,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 8584,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "new",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 735,
+      "createdAt": "2022-02-18T07:49:40.477Z",
+      "category": "Accessories",
+      "gender": "Women",
+      "colors": ["#1890FF", "#94D82D", "#FFC107"]
+    },
+    {
+      "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b24",
+      "cover": "https://storage.googleapis.com/cs-demo-data/coderstore/product_24.jpg",
+      "images": [
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_1.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_2.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_3.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_4.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_5.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_6.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_7.jpg",
+        "https://storage.googleapis.com/cs-demo-data/coderstore/product_8.jpg"
+      ],
+      "name": "Run Star Hike Platform Sneaker",
+      "code": "38BEE2723",
+      "sku": "WW75K52123YW/SV",
+      "tags": [
+        "Dangal",
+        "The Sting",
+        "2001: A Space Odyssey",
+        "Singin' in the Rain"
+      ],
+      "price": 60.96,
+      "priceSale": null,
+      "totalRating": 1.8,
+      "totalReview": 9056,
+      "ratings": [
+        {
+          "name": "1 Star",
+          "starCount": 103,
+          "reviewCount": 2513
+        },
+        {
+          "name": "2 Star",
+          "starCount": 4317,
+          "reviewCount": 3094
+        },
+        {
+          "name": "3 Star",
+          "starCount": 3867,
+          "reviewCount": 8617
+        },
+        {
+          "name": "4 Star",
+          "starCount": 6994,
+          "reviewCount": 268
+        },
+        {
+          "name": "5 Star",
+          "starCount": 9245,
+          "reviewCount": 5978
+        }
+      ],
+      "reviews": [
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+          "name": "Jayvion Simon",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_1.jpg",
+          "comment": "Assumenda nam repudiandae rerum fugiat vel maxime.",
+          "rating": 2.5,
+          "isPurchased": true,
+          "helpful": 9051,
+          "postedAt": "2022-03-13T05:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b2",
+          "name": "Lucian Obrien",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_2.jpg",
+          "comment": "Quis veniam aut saepe aliquid nulla.",
+          "rating": 2,
+          "isPurchased": true,
+          "helpful": 1541,
+          "postedAt": "2022-03-12T04:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b3",
+          "name": "Deja Brady",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_3.jpg",
+          "comment": "Reprehenderit ut voluptas sapiente ratione nostrum est.",
+          "rating": 4.9,
+          "isPurchased": true,
+          "helpful": 5709,
+          "postedAt": "2022-03-11T03:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b4",
+          "name": "Harrison Stein",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_4.jpg",
+          "comment": "Error ut sit vel molestias velit.",
+          "rating": 2,
+          "isPurchased": false,
+          "helpful": 6552,
+          "postedAt": "2022-03-10T02:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b5",
+          "name": "Reece Chung",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_5.jpg",
+          "comment": "Quo quia sit nihil nemo doloremque et.",
+          "rating": 4,
+          "isPurchased": false,
+          "helpful": 4796,
+          "postedAt": "2022-03-09T01:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b6",
+          "name": "Lainey Davidson",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_6.jpg",
+          "comment": "Autem doloribus harum vero laborum.",
+          "rating": 5,
+          "isPurchased": true,
+          "helpful": 9382,
+          "postedAt": "2022-03-08T00:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b7",
+          "name": "Cristopher Cardenas",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_7.jpg",
+          "comment": "Tempora officiis consequuntur architecto nostrum autem nam adipisci.",
+          "rating": 4.9,
+          "isPurchased": false,
+          "helpful": 1353,
+          "postedAt": "2022-03-06T23:49:40.477Z"
+        },
+        {
+          "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b8",
+          "name": "Melanie Noble",
+          "avatarUrl": "https://storage.googleapis.com/cs-demo-data/coderstore/avatar_8.jpg",
+          "comment": "Voluptas sunt magni adipisci praesentium saepe.",
+          "rating": 5,
+          "isPurchased": false,
+          "helpful": 8173,
+          "postedAt": "2022-03-05T22:49:40.477Z"
+        }
+      ],
+      "status": "",
+      "inventoryType": "in_stock",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "13"
+      ],
+      "available": 2,
+      "description": "\n<p><strong><small> SPECIFICATION</small></strong></p>\n<p>Leather panels. Laces. Rounded toe. Rubber sole.\n<br /><br />\n<p><strong><small> MATERIAL AND WASHING INSTRUCTIONS</small></strong></p>\n<p>Shoeupper: 54% bovine leather,46% polyurethane. Lining: 65% polyester,35% cotton. Insole: 100% polyurethane. Sole: 100% thermoplastic. Fixing sole: 100% glued.</p>\n",
+      "sold": 90,
+      "createdAt": "2022-02-17T06:49:40.477Z",
+      "category": "Accessories",
+      "gender": "Kids",
+      "colors": ["#FF4842", "#1890FF"]
+    }
+  ]
+}
