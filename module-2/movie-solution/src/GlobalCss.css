@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+}
+.content {
+  display: none;
+}
+.card:hover .content {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+  min-height: 30%;
+}
+.card:hover .favorite_icon {
+  color: #f50057;
+}
+.card:hover .recommend_icon {
+  color: gainsboro;
+}
+/* how to hover on parent and child have the effects */
