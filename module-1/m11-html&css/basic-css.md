@@ -145,11 +145,11 @@ h1:first-child {
 /* Assignment 3 */
 
 #assignment3 {
-  font-size: 50px;
+  font-size: 2rem;
 }
 
 #assignment3 li {
-  font-size: 0.8rem;
+  font-size: smaller;
 }
 
 /* Assignment 4 */
