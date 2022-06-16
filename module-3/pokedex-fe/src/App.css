@@ -1,0 +1,117 @@
+* {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+body {
+	margin: 0;
+	background-color: black !important;
+}
+.App {
+	background-image: url('/public/images/container_bg.png');
+}
+
+.loading {
+	animation: loadingIcon 0.5s linear infinite;
+	text-align: center;
+	height: 2rem;
+}
+.create-btn {
+	animation: eggIcon 1s ease-in-out infinite;
+	text-align: center;
+	height: 2rem;
+	color: white;
+}
+.create-btn:hover {
+	animation: eggIconHarder 0.15s ease-in-out 10;
+}
+
+@keyframes loadingIcon {
+	from {
+		transform: rotate(0);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes eggIcon {
+	0% {
+		transform: rotate(-10deg);
+	}
+	40% {
+		transform: rotate(15deg);
+	}
+	80% {
+		transform: rotate(-10deg);
+	}
+	100% {
+		transform: rotate(-10deg);
+	}
+}
+@keyframes eggIconHarder {
+	0% {
+		transform: rotate(-30deg);
+	}
+	40% {
+		transform: rotate(35deg);
+	}
+	80% {
+		transform: rotate(-30deg);
+	}
+	100% {
+		transform: rotate(-30deg);
+	}
+}
+
+.navigation-button {
+	transition-duration: 0.3s;
+	background-color: #a4a4a4;
+}
+
+.navigation-button:hover {
+	transition-duration: 0.3s;
+	background-color: #30a7d7;
+}
+
+.detail-name {
+	position: relative;
+}
+
+.detail-name::before {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: -60px;
+	width: 0;
+	border-top: 58px solid transparent;
+	border-right: 60px solid white;
+}
+
+.detail-name::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	right: -60px;
+	width: 0;
+	border-top: 58px solid transparent;
+	border-left: 60px solid white;
+}
+
+.filters {
+	transition-duration: 0.5s;
+	max-height: 64px;
+}
+.filters-expanded {
+	transition-duration: 0.5s;
+	opacity: 1;
+	max-height: 2400px;
+}
+
+.filters .filter-types {
+	opacity: 0;
+	transition-duration: 0.5s;
+}
+.filters-expanded .filter-types {
+	opacity: 1;
+	transition-duration: 0.5s;
+}
