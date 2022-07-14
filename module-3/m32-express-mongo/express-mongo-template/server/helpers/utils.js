@@ -24,4 +24,3 @@ utilsHelper.sendResponse = (res, status, success, data, errors, message) => {
   if (message) response.message = message;
   return res.status(status).json(response);
 };
-
