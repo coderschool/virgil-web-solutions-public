@@ -170,12 +170,14 @@ h1:first-child {
 ```css
 /* Assignment 3 */
 
+/* Set the font-size of this assignment to 2rem */
 #assignment3 {
-  font-size: 50px;
+  font-size: 2rem;
 }
 
+/* Use just one declaration to make the text of lower level smaller the higher level */
 #assignment3 li {
-  font-size: 0.8rem;
+  font-size: 0.8em;
 }
 
 ```
