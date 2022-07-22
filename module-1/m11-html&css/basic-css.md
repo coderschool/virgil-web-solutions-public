@@ -104,6 +104,12 @@ h1:first-child {
   /* visibility: hidden; */
   display: none;
 }
+
+/* 11. Create 20% margin left and right of the text. */
+#assignment1 h1, #assignment1 p{
+  margin-left: 20%;
+  margin-right: 20%;
+}
 ```
 ## Assignment 2
 **HTML**
