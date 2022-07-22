@@ -21,6 +21,26 @@ description: solutions for full stack web assignments
     </body>
   </html>
 ```
+**CSS**
+```css
+
+
+/* Applies border box sizing to the root element */
+:root {
+  box-sizing: border-box;
+}
+
+/* Tells all other elements and pseudo-element to inherit their box sizing */
+*,
+::before,
+::after {
+  box-sizing: inherit;
+}
+
+
+```
+
+
 
 # Solutions
 ## Assignment 1
@@ -66,8 +86,8 @@ description: solutions for full stack web assignments
 #assignment1 p::first-letter {
   color: #27ae60;
   font-size: 2em;
-}
 
+}
 #assignment1 #para1 {
   color: #2ecc71;
 }
@@ -171,55 +191,3 @@ h1:first-child {
   height: 80vmin;
 }
 ```
-
-## Assignment 5
-**HTML**
-```html
- <section id="assignment5">
-      <div class="box">
-        Box 1
-        <!-- <div class="box">Box 3</div> -->
-      </div>
-      <div class="box content">
-        Box 2
-        <!-- <div class="box">Box 4</div> -->
-      </div>
-    </section>
-```
-**CSS**
-```css
-
-/* Assignment 5 */
-
-#assignment5 .box {
-  border: 50px solid #e74c3c;
-  padding: 50px;
-  text-transform: uppercase;
-  width: 50vw;
-  overflow-x: scroll;
-}
-
-/* Applies border box sizing to the root element */
-:root {
-  box-sizing: border-box;
-}
-
-/* Tells all other elements and pseudo-element to inherit their box sizing */
-*,
-::before,
-::after {
-  box-sizing: inherit;
-}
-
-#assignment5 .content {
-  box-sizing: content-box;
-  border-color: #16a085;
-}
-```
-
-
-
-
-
----
-
