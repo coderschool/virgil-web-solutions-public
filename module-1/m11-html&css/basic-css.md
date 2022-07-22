@@ -106,7 +106,7 @@ h1:first-child {
 }
 
 /* 11. Create 20% margin left and right of the text. */
-#assignment1 h1, #assignment1 p{
+#assignment1 *{
   margin-left: 20%;
   margin-right: 20%;
 }
