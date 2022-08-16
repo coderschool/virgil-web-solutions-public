@@ -2,6 +2,7 @@
 author: Loc Trinh
 title: Tutorial Murder Mystery
 id: Tutorial-Murder-Mystery
+meta: 16/08/2022
 ---
 
 # Tutorial-Murder-Mystery
