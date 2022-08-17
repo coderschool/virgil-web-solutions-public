@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <nav class="text-center border">
+        <h1>HoliDates</h1>
+        <q>To travel is to love</q>
+      </nav>
+    </header>
+    <main>
+      <section id="holiday-list" class="text-center container">
+        <div class="row flex">
+          <div class="col-6">
+            <div class="card-wrapper">
+              <div class="card-border"></div>
+              <div id="tool-bar" class="border card card-shadow">
+                <h3>Query Options</h3>
+                <div class="flex flex-wrap justify-content-center">
+                  <input id="search-query" type="text" placeholder="Search" />
+                  <input id="year-query" type="text" placeholder="2020" />
+                  <input id="month-query" type="text" placeholder="Month" />
+                  <input id="day-query" type="text" placeholder="Day" />
+                  <input id="country-query" type="text" placeholder="VN" />
+                  <input
+                    id="language-query"
+                    type="text"
+                    placeholder="Language Code"
+                  />
+                  <button id="holidays-btn" class="btn">Render Holiday</button>
+                </div>
+              </div>
+            </div>
+            <div class="card-wrapper">
+              <div class="card-border"></div>
+              <div id="holidays-list" class="flex flex-column card card-shadow">
+                <h3>Holidays of a Country</h3>
+                <ul>
+                  <li>
+                    <div class="bullet">1</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Holiday Name 1</div>
+                      <div class="li-text">Wednesday - 2020-01-01</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">2</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Holiday Name 2</div>
+                      <div class="li-text">Thursday - 2020-01-02</div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="card-wrapper">
+              <div class="card-border"></div>
+              <div
+                id="countries-list"
+                class="flex flex-column card card-shadow"
+              >
+                <h3>Country List</h3>
+                <div>
+                  <button id="countries-list-btn" class="btn top-right-btn">
+                    Render Countries List
+                  </button>
+                </div>
+                <ul>
+                  <li>
+                    <div class="bullet">1</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Country Name 1</div>
+                      <div class="li-text">Code: CN1</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">2</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Country Name 2</div>
+                      <div class="li-text">Code: CN2</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">3</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Country Name 3</div>
+                      <div class="li-text">Code: CN3</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">4</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Country Name 4</div>
+                      <div class="li-text">Code: CN4</div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="card-wrapper">
+              <div class="card-border"></div>
+              <div
+                id="languages-list"
+                class="flex flex-column card card-shadow"
+              >
+                <h3>Language List</h3>
+                <div>
+                  <button id="languages-list-btn" class="btn top-right-btn">
+                    Render Languages List
+                  </button>
+                </div>
+                <ul>
+                  <li>
+                    <div class="bullet">1</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Language Name 1</div>
+                      <div class="li-text">Code: LN1</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">2</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Language Name 2</div>
+                      <div class="li-text">Code: LN2</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">3</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Language Name 3</div>
+                      <div class="li-text">Code: LN3</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="bullet">4</div>
+                    <div class="li-wrapper">
+                      <div class="li-title">Language Name 4</div>
+                      <div class="li-text">Code: LN4</div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
